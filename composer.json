@@ -1,5 +1,5 @@
 {
-    "name": "prometee/sylius-google-recaptcha-v3-plugin",
+    "name": "infokrys/sylius-google-recaptcha-v3-plugin",
     "type": "sylius-plugin",
     "keywords": ["sylius", "sylius-plugin"],
     "description": "Plugin adding the Google reCAPTCHA v3 field to some frontend FormType of Sylius",
